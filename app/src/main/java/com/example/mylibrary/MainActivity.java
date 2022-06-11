@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         initViews();
         
         initListeners();
+
+        System.out.println("The First Change Ever Never Better");
+
     }
 
     private void initListeners() {
