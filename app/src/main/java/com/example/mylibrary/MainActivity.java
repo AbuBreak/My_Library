@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         initListeners();
 
         System.out.println("The First Change Ever Never Better");
-
+        have a good day!
 
     }
 
